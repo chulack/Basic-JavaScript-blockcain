@@ -1,2 +1,2 @@
 # Basic-blockcain
-Just a basic blockchain.
+Just a basic blockchain built in JavaScript.
